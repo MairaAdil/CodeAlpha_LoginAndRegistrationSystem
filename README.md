@@ -532,7 +532,7 @@ The project helped strengthen practical understanding of C++ functions, file han
 
 ---
 
-## 🙏 Acknowledgment
+## 🎇 Acknowledgment
 
 Special thanks to **CodeAlpha** for providing the internship opportunity and project-based learning experience to practice and apply C++ programming concepts.
 
